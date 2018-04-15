@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FMS</string>
+    <string-array name="type">
+        <item>Seller</item>
+        <item>Merchant</item>
+        <item>Customer</item>
+    </string-array>
+    <string-array name="course_array">
+        <item>Vegetable</item>
+        <item>Fruit</item>
+        <item>Grain</item>
+    </string-array>
+</resources>

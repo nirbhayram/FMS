@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1055582541004",
+    "firebase_url": "https://fmsfirebaseproject-6bc4d.firebaseio.com",
+    "project_id": "fmsfirebaseproject-6bc4d",
+    "storage_bucket": "fmsfirebaseproject-6bc4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055582541004:android:06780b8c05e8a041",
+        "android_client_info": {
+          "package_name": "sen.mukul.com.fms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055582541004-3j65ud889rvfp60fuiedimb5a5oap652.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sen.mukul.com.fms",
+            "certificate_hash": "674f52e8b0bda54f49db904417884b7cc20e3f60"
+          }
+        },
+        {
+          "client_id": "1055582541004-91603ifebr0cc3le6plni3007kjt5a37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAoMxqK-1skU10keYOnN9r4gq5I5zq2tU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055582541004-91603ifebr0cc3le6plni3007kjt5a37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
